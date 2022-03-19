@@ -1,1 +1,1 @@
-# Flappy Bird game designed in VS Code
+# Flappy Bird game designed in Unity
